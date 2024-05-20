@@ -3,14 +3,14 @@
 <p align="justify">
 Gempa Nusantara is a database of 7,380 macroseismic effects for 1,200 damaging or significant historical earthquakes in the region of Indonesia from 1546 until 1950 shown in the figure below. This database was compiled by <b>Martin <i>et al.</i> (2022, BSSA)</b> by consulting original private and public documentary materials from the Dutch colonial period as well as newspaper reports. These observations were then used to assign macroseismic intensity using the European Macroseismic Scale (EMS-1998).</p>
 
+#### Citing this Database:
+><p align="justify">S.S. Martin, P.R. Cummins and A.J. Meltzner (2022), Gempa Nusantara: A database of 7,380 macroseismic observations for 1,200 historical earthquakes in Indonesia from 1546 until 1950, <i>Bulletin of the Seismological Society of America</i> (BSSA), https://doi.org/10.1785/0120220047
+</p>
+
 ![Figure-1-Github](https://user-images.githubusercontent.com/102340698/198859099-6f6500d8-0afd-402d-b829-2fcf96e39cf5.jpg)
 
 <p align="justify">
 All observations catalogued in Gempa Nusantara can be found in the file titled "<b>GempaNusantara_v1.xlsx</b>" that contains <b>Tables S1, S2 and S3</b>. These are denoted by colour-coded tabs in the spreadsheet and are summarized below and can be cross-referenced with each other. Any subsequent versions to this database will be also hosted here in this GitHub Repository (https://github.com/7point1/GempaNusantara/). The complete citation for this database is the <b>Martin <i>et al.</i> (2022)</b> research paper in BSSA recorded below. 
-</p>
-
-#### Citing this Database:
-><p align="justify">S.S. Martin, P.R. Cummins and A.J. Meltzner (2022), Gempa Nusantara: A database of 7,380 macroseismic observations for 1,200 historical earthquakes in Indonesia from 1546 until 1950, <i>Bulletin of the Seismological Society of America</i> (BSSA), https://doi.org/10.1785/0120220047
 </p>
 
 #### Table S1: Index of Events (blue tab)
